@@ -1,0 +1,22 @@
+html {
+	font-family: 'Roboto', sans-serif;
+	background-color: #545388;
+}
+body {
+	border: 5px solid black;
+}
+.center {
+	width: ;
+	margin: 0 auto;
+}
+p {
+	color: #efcac4;
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+}
+
+#heading {
+	color: #f8af85;
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+}
